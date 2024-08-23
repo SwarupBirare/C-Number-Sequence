@@ -1,52 +1,10 @@
-# Prerequisites
-*.d
+# Compiled executable
+/Number-Sequence-Function/bin/Debug/Numbers.exe
 
 # Object files
-*.o
-*.ko
-*.obj
-*.elf
+/Number-Sequence-Function/obj/Debug/*.o
 
-# Linker output
-*.ilk
-*.map
-*.exp
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
-
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
-
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
-
-# Debug files
-*.dSYM/
-*.su
-*.idb
-*.pdb
-
-# Kernel Module Compile Results
-*.mod*
-*.cmd
-.tmp_versions/
-modules.order
-Module.symvers
-Mkfile.old
-dkms.conf
+# IDE specific files
+/Number-Sequence-Function/*.depend
+/Number-Sequence-Function/*.layout
+/Number-Sequence-Function/*.cbp
